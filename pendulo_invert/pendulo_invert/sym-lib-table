@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MPU")(type "KiCad")(uri "${KIPRJMOD}/MPU.kicad_sym")(options "")(descr ""))
+  (lib (name "driver")(type "KiCad")(uri "${KIPRJMOD}/driver.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,104 @@
+Info: Procesando el símbolo 'U1:Package_SO:SSOP-24_5.3x8.2mm_P0.65mm'.
+Info: Procesando el símbolo 'U2:ESP32-DEVKITC:MODULE_ESP32-DEVKITC'.
+Info: Procesando el símbolo 'U3:Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm'.
+Añadir U1 (huella 'Package_SO:SSOP-24_5.3x8.2mm_P0.65mm').
+Indicador de referencia cambiado de REF** a U1.
+Valor U1 cambiado de SSOP-24_5.3x8.2mm_P0.65mm a TB6612FNG.
+Asociación de símbolos U1 actualizada de  a /d48f1cf5-3fc0-4055-986a-af46b339d68b.
+U1 propiedades actualizadas.
+Añadir red unconnected-(U1-AO1-Pad1).
+U1 pin 1 conectado a unconnected-(U1-AO1-Pad1).
+U1 pin 2 conectado a unconnected-(U1-AO1-Pad1).
+Añadir red GND.
+U1 pin 3 conectado a GND.
+U1 pin 4 conectado a GND.
+Añadir red unconnected-(U1-AO2-Pad5).
+U1 pin 5 conectado a unconnected-(U1-AO2-Pad5).
+U1 pin 6 conectado a unconnected-(U1-AO2-Pad5).
+Añadir red unconnected-(U1-BO2-Pad7).
+U1 pin 7 conectado a unconnected-(U1-BO2-Pad7).
+U1 pin 8 conectado a unconnected-(U1-BO2-Pad7).
+Añadir red unconnected-(U1-PGND2-Pad10).
+U1 pin 9 conectado a unconnected-(U1-PGND2-Pad10).
+U1 pin 10 conectado a unconnected-(U1-PGND2-Pad10).
+Añadir red unconnected-(U1-BO1-Pad11).
+U1 pin 11 conectado a unconnected-(U1-BO1-Pad11).
+U1 pin 12 conectado a unconnected-(U1-BO1-Pad11).
+Añadir red unconnected-(U1-VM2-Pad13).
+U1 pin 13 conectado a unconnected-(U1-VM2-Pad13).
+Añadir red unconnected-(U1-VM3-Pad14).
+U1 pin 14 conectado a unconnected-(U1-VM3-Pad14).
+Añadir red Net-(U1-PWMB).
+U1 pin 15 conectado a Net-(U1-PWMB).
+Añadir red Net-(U1-BIN2).
+U1 pin 16 conectado a Net-(U1-BIN2).
+Añadir red Net-(U1-BIN1).
+U1 pin 17 conectado a Net-(U1-BIN1).
+U1 pin 18 conectado a GND.
+Añadir red Net-(U1-STBY).
+U1 pin 19 conectado a Net-(U1-STBY).
+Añadir red +3.3VADC.
+U1 pin 20 conectado a +3.3VADC.
+Añadir red Net-(U1-AIN1).
+U1 pin 21 conectado a Net-(U1-AIN1).
+Añadir red Net-(U1-AIN2).
+U1 pin 22 conectado a Net-(U1-AIN2).
+Añadir red Net-(U1-PWMA).
+U1 pin 23 conectado a Net-(U1-PWMA).
+Añadir red unconnected-(U1-VM1-Pad24).
+U1 pin 24 conectado a unconnected-(U1-VM1-Pad24).
+U3 pin 24 conectado a Net-(U2-IO23).
+Añadir U3 (huella 'Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm').
+Indicador de referencia cambiado de REF** a U3.
+Valor U3 cambiado de InvenSense_QFN-24_4x4mm_P0.5mm a MPU-6050.
+Asociación de símbolos U3 actualizada de  a /1ac5654e-813c-4471-806e-b4beb464c57e.
+U3 propiedades actualizadas.
+Añadir red unconnected-(U3-CLKIN-Pad1).
+U3 pin 1 conectado a unconnected-(U3-CLKIN-Pad1).
+Añadir red unconnected-(U3-NC-Pad2).
+U3 pin 2 conectado a unconnected-(U3-NC-Pad2).
+Añadir red unconnected-(U3-NC-Pad3).
+U3 pin 3 conectado a unconnected-(U3-NC-Pad3).
+Añadir red unconnected-(U3-NC-Pad4).
+U3 pin 4 conectado a unconnected-(U3-NC-Pad4).
+Añadir red unconnected-(U3-NC-Pad5).
+U3 pin 5 conectado a unconnected-(U3-NC-Pad5).
+Añadir red unconnected-(U3-AUX_DA-Pad6).
+U3 pin 6 conectado a unconnected-(U3-AUX_DA-Pad6).
+Añadir red unconnected-(U3-AUX_CL-Pad7).
+U3 pin 7 conectado a unconnected-(U3-AUX_CL-Pad7).
+Añadir red unconnected-(U3-VLOGIC-Pad8).
+U3 pin 8 conectado a unconnected-(U3-VLOGIC-Pad8).
+Añadir red unconnected-(U3-AD0-Pad9).
+U3 pin 9 conectado a unconnected-(U3-AD0-Pad9).
+Añadir red unconnected-(U3-REGOUT-Pad10).
+U3 pin 10 conectado a unconnected-(U3-REGOUT-Pad10).
+Añadir red unconnected-(U3-FSYNC-Pad11).
+U3 pin 11 conectado a unconnected-(U3-FSYNC-Pad11).
+Añadir red Net-(U2-IO21).
+U3 pin 12 conectado a Net-(U2-IO21).
+U3 pin 13 conectado a +3.3VADC.
+Añadir red unconnected-(U3-NC-Pad14).
+U3 pin 14 conectado a unconnected-(U3-NC-Pad14).
+Añadir red unconnected-(U3-NC-Pad15).
+U3 pin 15 conectado a unconnected-(U3-NC-Pad15).
+Añadir red unconnected-(U3-NC-Pad16).
+U3 pin 16 conectado a unconnected-(U3-NC-Pad16).
+Añadir red unconnected-(U3-NC-Pad17).
+U3 pin 17 conectado a unconnected-(U3-NC-Pad17).
+U3 pin 18 conectado a GND.
+Añadir red unconnected-(U3-RESV-Pad19).
+U3 pin 19 conectado a unconnected-(U3-RESV-Pad19).
+Añadir red unconnected-(U3-CPOUT-Pad20).
+U3 pin 20 conectado a unconnected-(U3-CPOUT-Pad20).
+Añadir red unconnected-(U3-RESV-Pad21).
+U3 pin 21 conectado a unconnected-(U3-RESV-Pad21).
+Añadir red unconnected-(U3-RESV-Pad22).
+U3 pin 22 conectado a unconnected-(U3-RESV-Pad22).
+Añadir red Net-(U2-IO22).
+U3 pin 23 conectado a Net-(U2-IO22).
+Añadir red Net-(U2-IO23).
+Error: No puede añadirse U2 (no se ha encontrado la huella 'ESP32-DEVKITC:MODULE_ESP32-DEVKITC').
+
+
+Info: Número de avisos: 0, errores: 1.
